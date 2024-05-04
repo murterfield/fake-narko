@@ -1,5 +1,5 @@
 # Токен бота
-API_TOKEN = "7188923193:AAE4UZUMARX9ocrSJPJejx67XhVY0FBZy9I"
+API_TOKEN = "token"
 
 # Реквизиты
 card = ("0123 4567 8910 1112")
